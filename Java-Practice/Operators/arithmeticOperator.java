@@ -15,3 +15,10 @@ public class arithmeticOperator {
     }
     
 }
+
+// output:
+// Addition is 30
+// Susbtraction is -10
+// Multiplication is 200
+// Division is 2
+//we can also write the a=a+b as a+=b;
