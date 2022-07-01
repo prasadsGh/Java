@@ -22,3 +22,4 @@ public class comparsionOperator {
 // false
 // true
 // true
+//same follows for the &&, || ,! operators
